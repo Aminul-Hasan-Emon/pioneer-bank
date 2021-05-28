@@ -1,0 +1,64 @@
+
+/**** Code By: Aminul Hasan Emon ****/
+
+
+
+/*! ================ Start Fonts Area ================== */
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('../fonts/Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Semibold';
+    src: url('../fonts/Poppins-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('../fonts/Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Extrabold';
+    src: url('../fonts/Poppins-ExtraBold.ttf');
+}
+
+
+/*! ================ End Fonts Area ================== */
+
+/*! ================ Essential Area Start ================== */
+
+
+body {
+    font-family: 'Poppins';
+    padding: 100px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+
+h1 {
+    font-family: 'Poppins-semibold';
+}
+
+/* ***** Navbar Toggler Icon ****** */
+
+/* .navbar-toggler{color:rgba(0,0,0,.55);border-color:rgba(0,0,0,.1)} .navbar-toggler-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")} */
+
+
+/*! ================ Essential Area End ================== */
